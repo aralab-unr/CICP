@@ -12,3 +12,4 @@ This is the basic implmentation of Correntropy ICP and below are the instruction
       
 you can change Line 137 in the mcc-icp.cpp file change the CorrentropySVD to any other estimation procedure.
        
+The paper has been submitted to the IEEE SII 2020. Pdf file is attached.
