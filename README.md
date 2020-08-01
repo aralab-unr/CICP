@@ -9,5 +9,5 @@ How to use it.
       make 
 4) The source code to run a basic sample is present in mcc_icp.cpp.
 5) IN terminal type the following to run the mcc-cip.
-       ./mcc-icp bunny01.ocd 1
+       ./mcc-icp bunny01.pcd 1
        
